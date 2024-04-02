@@ -1,0 +1,20 @@
+.ABLS-12.000MHZ-B4-T :1 ;ABRACON - ABLS-12.000MHZ-B4-T - CRYSTAL, 12MHZ, 18PF, HC-49US
+HC/49US-_AT49__1
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ABLS-12.000MHZ-B4-T
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ABLS-12.000MHZ-B4-T)
+~!Mouser Part Number (815-ABLS-12.0M-T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS-12.000MHZ-B4-T?qs=yTU0IcKoRlGSQ8ooxPPVnQ%3D%3D)
+~!Arrow Part Number (ABLS-12.000MHZ-B4-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/abls-12.000mhz-b4-t/abracon?region=nac)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/ABLS-12.000MHZ-B4-T.pdf)
+~!Height (-)
+~!3D_Model (ABLS-12.000MHZ-B4-T)
+ABLS-12.000MHZ-B4-T
+1.1!U 2.1!U 

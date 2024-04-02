@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ABLS-12_000MHZ-B4-T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-06-06-11:10:45)
+    (mountForm default
+        (footprintRef "HC_49US-_AT49__1")
+        (spec "System")
+    )
+)

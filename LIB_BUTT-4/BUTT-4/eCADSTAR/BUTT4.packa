@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "BUTT-4"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-12-28-13:18:42)
+    (mountForm default
+        (footprintRef "BUTT4")
+        (spec "System")
+    )
+)

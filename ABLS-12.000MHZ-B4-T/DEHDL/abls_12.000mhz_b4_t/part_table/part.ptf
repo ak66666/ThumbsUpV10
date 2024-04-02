@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ABLS_12.000MHZ_B4_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "ABRACON", "ABLS-12.000MHZ-B4-T" (!) = "", "HC/49US-(AT49)_1", "Other", "815-ABLS-12.0M-T", "https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS-12.000MHZ-B4-T?qs=yTU0IcKoRlGSQ8ooxPPVnQ%3D%3D", "ABLS-12.000MHZ-B4-T", "https://www.arrow.com/en/products/abls-12.000mhz-b4-t/abracon?region=nac", "", "", "ABRACON - ABLS-12.000MHZ-B4-T - CRYSTAL, 12MHZ, 18PF, HC-49US", "https://componentsearchengine.com/Datasheets/2/ABLS-12.000MHZ-B4-T.pdf"
+END_PART
+
+END.

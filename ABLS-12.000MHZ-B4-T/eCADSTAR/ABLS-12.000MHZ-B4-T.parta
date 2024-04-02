@@ -1,0 +1,69 @@
+(Japanese_coding: sjis)
+(function "ECS_549537"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-11-06-11:52:51)
+    (utime 2020-07-14-13:49:03)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "ABLS-12_000MHZ-B4-T")
+)
+
+
+(pinAssign "ECS_549537"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-11-06-11:52:51)
+    (utime 2020-07-14-13:49:03)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_549537")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "ABLS-12_000MHZ-B4-T")
+)
+
+
+(part "ABLS-12_000MHZ-B4-T"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-11-06-11:52:51)
+    (utime 2020-07-14-13:49:03)
+    (packageRef "ABLS-12_000MHZ-B4-T")
+    (pinAssignRef "ECS_549537")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "ABRACON - ABLS-12.000MHZ-B4-T - CRYSTAL, 12MHZ, 18PF, HC-49US")
+    (property "Manufacturer_Name" "ABRACON")
+    (property "Manufacturer_Part_Number" "ABLS-12.000MHZ-B4-T")
+    (property "Mouser_Part_Number" "815-ABLS-12.0M-T")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/ABRACON/ABLS-12.000MHZ-B4-T?qs=yTU0IcKoRlGSQ8ooxPPVnQ%3D%3D")
+    (property "Arrow_Part_Number" "ABLS-12.000MHZ-B4-T")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/abls-12.000mhz-b4-t/abracon?region=nac")
+    (property "Mouser_Testing_Part_Number" "")
+    (property "Mouser_Testing_Price/Stock" "")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/ABLS-12.000MHZ-B4-T.pdf")
+)
+
+

@@ -1,0 +1,135 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "BUTT-4"
+   (description "Tactile Switches MINI PUSH BUTTON SWITCH 4-PIN QTY. 4")
+   (family "SWI")
+   (package "BUTT4")
+   (attribute "Datasheet Link" "http://site.gravitech.us/Components/BUTT-4/BUTT-4_datasheet.pdf")
+   (attribute "Geometry.Height" "9.5mm")
+   (attribute "Manufacturer_Name" "Gravitech")
+   (attribute "Manufacturer_Part_Number" "BUTT-4")
+   (attribute "Mouser Part Number" "992-BUTT-4")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Gravitech/BUTT-4?qs=Vxac6xGyzPm51iLpy8GNew%3D%3D")
+   (attribute "Arrow Part Number" "")
+   (attribute "Arrow Price/Stock" "")
+   (gate
+    (symbol "BUTT-4")
+    (pin "A1" A1 PS)
+    (pin "B1" B1 PS)
+    (pin "C1" C1 PS)
+    (pin "D1" D1 PS)
+    (pin "G1" G1 PS)
+   )
+  )
+  (symbol "BUTT-4"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BUTT4"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3 3)
+      (pt 3 3)
+      (pt 3 -3)
+      (pt -3 -3)
+      (pt -3 3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.038 4.037)
+      (pt 5.037 4.037)
+      (pt 5.037 -6.287)
+      (pt -5.038 -6.287)
+      (pt -5.038 4.037))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 -3)
+      (pt 2 -3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -2 3)
+      (pt 2 3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3 1)
+      (pt -3 -1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt 3 1)
+      (pt 3 -1))))
+   (leg A1 (pt -3.250 2.250) (padstack 0))
+   (leg B1 (pt -3.250 -2.250) (padstack 0))
+   (leg C1 (pt 3.250 2.250) (padstack 0))
+   (leg D1 (pt 3.250 -2.250) (padstack 0))
+   (leg G1 (pt 0.000 -4.500) (padstack 0))
+   (padstack 0
+    (hole 1.05)
+    (plated true)
+    (pad (layer TCOP) (round 1.575))
+    (pad (layer INNER) (round 1.575))
+    (pad (layer BCOP) (round 1.575))
+   )
+   (model "BUTT-4.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

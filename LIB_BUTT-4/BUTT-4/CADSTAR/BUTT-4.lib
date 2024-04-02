@@ -1,0 +1,19 @@
+.BUTT-4 :1 ;Tactile Switches MINI PUSH BUTTON SWITCH 4-PIN QTY. 4
+BUTT4
+*STM S
+*NGS
+*PNM 1=A1 2=B1 3=C1 4=D1 5=G1
+*PLB 1="A1" 2="B1" 3="C1" 4="D1" 5="G1"
+*MXP 5
+*DFN BUTT-4
+~!Manufacturer_Name (Gravitech)
+~!Manufacturer_Part_Number (BUTT-4)
+~!Mouser Part Number (992-BUTT-4)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Gravitech/BUTT-4?qs=Vxac6xGyzPm51iLpy8GNew%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (http://site.gravitech.us/Components/BUTT-4/BUTT-4_datasheet.pdf)
+~!Height (9.5mm)
+~!3D_Model (BUTT-4)
+BUTT-4
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BUTT_4'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Gravitech", "BUTT-4" (!) = "", "BUTT4", "Other", "992-BUTT-4", "https://www.mouser.co.uk/ProductDetail/Gravitech/BUTT-4?qs=Vxac6xGyzPm51iLpy8GNew%3D%3D", "", "", "Tactile Switches MINI PUSH BUTTON SWITCH 4-PIN QTY. 4", "http://site.gravitech.us/Components/BUTT-4/BUTT-4_datasheet.pdf", "9.5 mm"
+END_PART
+
+END.

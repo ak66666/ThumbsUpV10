@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BUTT4"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BUTT4")
+        (spec "default")
+    )
+)
