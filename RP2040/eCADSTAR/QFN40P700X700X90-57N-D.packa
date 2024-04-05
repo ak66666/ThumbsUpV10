@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "RP2040"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-06-08-05:52:36)
+    (mountForm default
+        (footprintRef "QFN40P700X700X90-57N-D")
+        (spec "System")
+    )
+)

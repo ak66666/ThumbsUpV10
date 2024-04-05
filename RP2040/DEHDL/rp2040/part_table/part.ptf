@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'RP2040'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_TESTING_PART_NUMBER", "MOUSER_TESTING_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "RASPBERRY-PI", "RP2040" (!) = "", "QFN40P700X700X90-57N-D", "Quad Flat No-Lead", "", "", "", "", "", "", "Microcontroller in QFN Package", "https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf", "0.9 mm"
+END_PART
+
+END.

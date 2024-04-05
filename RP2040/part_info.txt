@@ -1,0 +1,9 @@
+Manufacturer=RASPBERRY-PI
+PartNumber=RP2040
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=57
+Version=1.1
+Released=2021-06-19 07:45:20
+Downloaded=2022-11-24 23:43:29
+3D=Y

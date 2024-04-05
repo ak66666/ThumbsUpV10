@@ -1,0 +1,21 @@
+.RP2040 :1 ;Microcontroller in QFN Package
+QFN40P700X700X90-57N-D
+*STM IC
+*NGS
+*PLB 1="IOVDD_1" 2="GPIO0" 3="GPIO1" 4="GPIO2" 5="GPIO3" 6="GPIO4" 7="GPIO5" 8="GPIO6" 9="GPIO7" 10="IOVDD_2" 11="GPIO8" 12="GPIO9" 13="GPIO10" 14="GPIO11" 15="GPIO12" 16="GPIO13" 17="GPIO14" 18="GPIO15" 19="TESTEN" 20="XIN" 21="XOUT" 22="IOVDD_3" 23="DVDD_1" 24="SWCLK" 25="SWDIO" 26="RUN" 27="GPIO16" 28="GPIO17" 29="GPIO18" 30="GPIO19" 31="GPIO20" 32="GPIO21" 33="IOVDD_4" 34="GPIO22" 35="GPIO23" 36="GPIO24" 37="GPIO25" 38="GPIO26/ADC0" 39="GPIO27/ADC1" &
+40="GPIO28/ADC2" 41="GPIO29/ADC3" 42="IOVDD_5" 43="ADC_AVDD" 44="VREG_VIN" 45="VREG_VOUT" 46="USB_DM" 47="USB_DP" 48="USB_VDD" 49="IOVDD_6" 50="DVDD_2" 51="QSPI_SD3" 52="QSPI_SCLK" 53="QSPI_SD0" 54="QSPI_SD2" 55="QSPI_SD1" 56="QSPI_SS_N" 57="GND"
+*MXP 57
+*DFN RP2040
+~!Manufacturer_Name (RASPBERRY-PI)
+~!Manufacturer_Part_Number (RP2040)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Testing Part Number (-)
+~!Mouser Testing Price/Stock (-)
+~!Link Datasheet (https://datasheets.raspberrypi.org/rp2040/rp2040-datasheet.pdf)
+~!Height (0.9mm)
+~!3D_Model (RP2040)
+RP2040
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 36.1!U 35.1!U 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 57.1!U 56.1!U 55.1!U 54.1!U 53.1!U 52.1!U 51.1!U 50.1!U 49.1!U 48.1!U 47.1!U 46.1!U 45.1!U 44.1!U 43.1!U 
