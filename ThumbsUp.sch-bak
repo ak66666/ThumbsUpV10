@@ -246,7 +246,7 @@ U 1 1 61FB95FB
 P 1300 6750
 F 0 "MX1" H 1333 6973 60  0000 C CNN
 F 1 "SwESC" H 1333 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 675 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 675 6725 60  0001 C CNN
 F 3 "" H 675 6725 60  0001 C CNN
 	1    1300 6750
 	1    0    0    -1  
@@ -257,7 +257,7 @@ U 1 1 61FB9608
 P 2000 6750
 F 0 "MX4" H 2033 6973 60  0000 C CNN
 F 1 "SwQ" H 2033 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 1375 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 1375 6725 60  0001 C CNN
 F 3 "" H 1375 6725 60  0001 C CNN
 	1    2000 6750
 	1    0    0    -1  
@@ -268,7 +268,7 @@ U 1 1 61FB9615
 P 1300 7550
 F 0 "MX2" H 1333 7773 60  0000 C CNN
 F 1 "SwTAB" H 1333 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 675 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 675 7525 60  0001 C CNN
 F 3 "" H 675 7525 60  0001 C CNN
 	1    1300 7550
 	1    0    0    -1  
@@ -279,7 +279,7 @@ U 1 1 61FB962F
 P 2700 6750
 F 0 "MX7" H 2733 6973 60  0000 C CNN
 F 1 "SwW" H 2733 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2075 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2075 6725 60  0001 C CNN
 F 3 "" H 2075 6725 60  0001 C CNN
 	1    2700 6750
 	1    0    0    -1  
@@ -290,7 +290,7 @@ U 1 1 61FB963C
 P 3400 6750
 F 0 "MX11" H 3433 6973 60  0000 C CNN
 F 1 "SwE" H 3433 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2775 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2775 6725 60  0001 C CNN
 F 3 "" H 2775 6725 60  0001 C CNN
 	1    3400 6750
 	1    0    0    -1  
@@ -301,7 +301,7 @@ U 1 1 61FB9649
 P 2700 7550
 F 0 "MX8" H 2733 7773 60  0000 C CNN
 F 1 "SwS" H 2733 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2075 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2075 7525 60  0001 C CNN
 F 3 "" H 2075 7525 60  0001 C CNN
 	1    2700 7550
 	1    0    0    -1  
@@ -312,7 +312,7 @@ U 1 1 61FB9656
 P 3400 7550
 F 0 "MX12" H 3433 7773 60  0000 C CNN
 F 1 "SwD" H 3433 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2775 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2775 7525 60  0001 C CNN
 F 3 "" H 2775 7525 60  0001 C CNN
 	1    3400 7550
 	1    0    0    -1  
@@ -323,7 +323,7 @@ U 1 1 61FB9663
 P 1300 8350
 F 0 "MX3" H 1333 8573 60  0000 C CNN
 F 1 "SwLCTL" H 1333 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 675 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 675 8325 60  0001 C CNN
 F 3 "" H 675 8325 60  0001 C CNN
 	1    1300 8350
 	1    0    0    -1  
@@ -334,7 +334,7 @@ U 1 1 61FB9670
 P 2000 8350
 F 0 "MX6" H 2033 8573 60  0000 C CNN
 F 1 "SwZ" H 2033 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 1375 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 1375 8325 60  0001 C CNN
 F 3 "" H 1375 8325 60  0001 C CNN
 	1    2000 8350
 	1    0    0    -1  
@@ -345,7 +345,7 @@ U 1 1 61FB9696
 P 2700 8350
 F 0 "MX9" H 2733 8573 60  0000 C CNN
 F 1 "SwX" H 2733 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2075 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2075 8325 60  0001 C CNN
 F 3 "" H 2075 8325 60  0001 C CNN
 	1    2700 8350
 	1    0    0    -1  
@@ -356,7 +356,7 @@ U 1 1 61FB96A3
 P 3400 8350
 F 0 "MX13" H 3433 8573 60  0000 C CNN
 F 1 "SwC" H 3433 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2775 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2775 8325 60  0001 C CNN
 F 3 "" H 2775 8325 60  0001 C CNN
 	1    3400 8350
 	1    0    0    -1  
@@ -367,7 +367,7 @@ U 1 1 61FB96B0
 P 2700 9150
 F 0 "MX10" H 2733 9373 60  0000 C CNN
 F 1 "SwLWIN" H 2733 9299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2075 9125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2075 9125 60  0001 C CNN
 F 3 "" H 2075 9125 60  0001 C CNN
 	1    2700 9150
 	1    0    0    -1  
@@ -411,7 +411,7 @@ U 1 1 62015099
 P 8800 8200
 F 0 "MX21" H 8833 8423 60  0000 C CNN
 F 1 "SwB" H 8833 8349 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8175 8175 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8175 8175 60  0001 C CNN
 F 3 "" H 8175 8175 60  0001 C CNN
 	1    8800 8200
 	1    0    0    -1  
@@ -435,7 +435,7 @@ U 1 1 6201508C
 P 8100 8200
 F 0 "MX17" H 8133 8423 60  0000 C CNN
 F 1 "SwV" H 8133 8349 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 7475 8175 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 7475 8175 60  0001 C CNN
 F 3 "" H 7475 8175 60  0001 C CNN
 	1    8100 8200
 	1    0    0    -1  
@@ -459,7 +459,7 @@ U 1 1 6201507F
 P 8800 7400
 F 0 "MX20" H 8833 7623 60  0000 C CNN
 F 1 "SwG" H 8833 7549 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8175 7375 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8175 7375 60  0001 C CNN
 F 3 "" H 8175 7375 60  0001 C CNN
 	1    8800 7400
 	1    0    0    -1  
@@ -483,7 +483,7 @@ U 1 1 62015072
 P 8100 7400
 F 0 "MX16" H 8133 7623 60  0000 C CNN
 F 1 "SwF" H 8133 7549 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 7475 7375 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 7475 7375 60  0001 C CNN
 F 3 "" H 7475 7375 60  0001 C CNN
 	1    8100 7400
 	1    0    0    -1  
@@ -507,7 +507,7 @@ U 1 1 62015065
 P 8800 6600
 F 0 "MX19" H 8833 6823 60  0000 C CNN
 F 1 "SwT" H 8833 6749 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8175 6575 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8175 6575 60  0001 C CNN
 F 3 "" H 8175 6575 60  0001 C CNN
 	1    8800 6600
 	1    0    0    -1  
@@ -531,7 +531,7 @@ U 1 1 62015058
 P 8100 6600
 F 0 "MX15" H 8133 6823 60  0000 C CNN
 F 1 "SwR" H 8133 6749 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 7475 6575 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 7475 6575 60  0001 C CNN
 F 3 "" H 7475 6575 60  0001 C CNN
 	1    8100 6600
 	1    0    0    -1  
@@ -572,7 +572,7 @@ U 1 1 61713053
 P 10150 8200
 F 0 "MX29" H 10183 8423 60  0000 C CNN
 F 1 "SwM" H 10183 8349 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 9525 8175 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 9525 8175 60  0001 C CNN
 F 3 "" H 9525 8175 60  0001 C CNN
 	1    10150 8200
 	1    0    0    -1  
@@ -596,7 +596,7 @@ U 1 1 61713046
 P 9450 8200
 F 0 "MX25" H 9483 8423 60  0000 C CNN
 F 1 "SwN" H 9483 8349 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8825 8175 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8825 8175 60  0001 C CNN
 F 3 "" H 8825 8175 60  0001 C CNN
 	1    9450 8200
 	1    0    0    -1  
@@ -620,7 +620,7 @@ U 1 1 616E98B3
 P 10150 7400
 F 0 "MX28" H 10183 7623 60  0000 C CNN
 F 1 "SwJ" H 10183 7549 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 9525 7375 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 9525 7375 60  0001 C CNN
 F 3 "" H 9525 7375 60  0001 C CNN
 	1    10150 7400
 	1    0    0    -1  
@@ -644,7 +644,7 @@ U 1 1 616E989E
 P 9450 7400
 F 0 "MX24" H 9483 7623 60  0000 C CNN
 F 1 "SwH" H 9483 7549 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8825 7375 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8825 7375 60  0001 C CNN
 F 3 "" H 8825 7375 60  0001 C CNN
 	1    9450 7400
 	1    0    0    -1  
@@ -668,7 +668,7 @@ U 1 1 616E6A1E
 P 10150 6600
 F 0 "MX27" H 10183 6823 60  0000 C CNN
 F 1 "SwU" H 10183 6749 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 9525 6575 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 9525 6575 60  0001 C CNN
 F 3 "" H 9525 6575 60  0001 C CNN
 	1    10150 6600
 	1    0    0    -1  
@@ -692,7 +692,7 @@ U 1 1 616E00A7
 P 9450 6600
 F 0 "MX23" H 9483 6823 60  0000 C CNN
 F 1 "SwY" H 9483 6749 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8825 6575 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8825 6575 60  0001 C CNN
 F 3 "" H 8825 6575 60  0001 C CNN
 	1    9450 6600
 	1    0    0    -1  
@@ -727,7 +727,7 @@ U 1 1 61FB9622
 P 2000 7550
 F 0 "MX5" H 2033 7773 60  0000 C CNN
 F 1 "SwA" H 2033 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 1375 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 1375 7525 60  0001 C CNN
 F 3 "" H 1375 7525 60  0001 C CNN
 	1    2000 7550
 	1    0    0    -1  
@@ -1146,7 +1146,7 @@ U 1 1 6261980F
 P 17000 6750
 F 0 "MX42" H 17033 6973 60  0000 C CNN
 F 1 "SwBKSP" H 17033 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 16375 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 16375 6725 60  0001 C CNN
 F 3 "" H 16375 6725 60  0001 C CNN
 	1    17000 6750
 	-1   0    0    -1  
@@ -1157,7 +1157,7 @@ U 1 1 62619815
 P 16300 6750
 F 0 "MX39" H 16333 6973 60  0000 C CNN
 F 1 "SwP" H 16333 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 15675 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 15675 6725 60  0001 C CNN
 F 3 "" H 15675 6725 60  0001 C CNN
 	1    16300 6750
 	-1   0    0    -1  
@@ -1168,7 +1168,7 @@ U 1 1 6261981B
 P 17000 7550
 F 0 "MX43" H 17033 7773 60  0000 C CNN
 F 1 "SwENTER" H 17033 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 16375 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 16375 7525 60  0001 C CNN
 F 3 "" H 16375 7525 60  0001 C CNN
 	1    17000 7550
 	-1   0    0    -1  
@@ -1179,7 +1179,7 @@ U 1 1 62619821
 P 15600 6750
 F 0 "MX35" H 15633 6973 60  0000 C CNN
 F 1 "SwO" H 15633 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14975 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14975 6725 60  0001 C CNN
 F 3 "" H 14975 6725 60  0001 C CNN
 	1    15600 6750
 	-1   0    0    -1  
@@ -1190,7 +1190,7 @@ U 1 1 62619827
 P 14900 6750
 F 0 "MX31" H 14933 6973 60  0000 C CNN
 F 1 "SwI" H 14933 6899 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14275 6725 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14275 6725 60  0001 C CNN
 F 3 "" H 14275 6725 60  0001 C CNN
 	1    14900 6750
 	-1   0    0    -1  
@@ -1201,7 +1201,7 @@ U 1 1 6261982D
 P 15600 7550
 F 0 "MX36" H 15633 7773 60  0000 C CNN
 F 1 "SwL" H 15633 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14975 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14975 7525 60  0001 C CNN
 F 3 "" H 14975 7525 60  0001 C CNN
 	1    15600 7550
 	-1   0    0    -1  
@@ -1212,7 +1212,7 @@ U 1 1 62619833
 P 14900 7550
 F 0 "MX32" H 14933 7773 60  0000 C CNN
 F 1 "SwK" H 14933 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14275 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14275 7525 60  0001 C CNN
 F 3 "" H 14275 7525 60  0001 C CNN
 	1    14900 7550
 	-1   0    0    -1  
@@ -1223,7 +1223,7 @@ U 1 1 62619839
 P 17000 8350
 F 0 "MX44" H 17033 8573 60  0000 C CNN
 F 1 "SwRCTRL" H 17033 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 16375 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 16375 8325 60  0001 C CNN
 F 3 "" H 16375 8325 60  0001 C CNN
 	1    17000 8350
 	-1   0    0    -1  
@@ -1234,7 +1234,7 @@ U 1 1 6261983F
 P 16300 8350
 F 0 "MX41" H 16333 8573 60  0000 C CNN
 F 1 "Sw?" H 16333 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 15675 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 15675 8325 60  0001 C CNN
 F 3 "" H 15675 8325 60  0001 C CNN
 	1    16300 8350
 	-1   0    0    -1  
@@ -1245,7 +1245,7 @@ U 1 1 62619845
 P 15600 8350
 F 0 "MX37" H 15633 8573 60  0000 C CNN
 F 1 "SwDOT" H 15633 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14975 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14975 8325 60  0001 C CNN
 F 3 "" H 14975 8325 60  0001 C CNN
 	1    15600 8350
 	-1   0    0    -1  
@@ -1256,7 +1256,7 @@ U 1 1 6261984B
 P 14900 8350
 F 0 "MX33" H 14933 8573 60  0000 C CNN
 F 1 "SwCOMMA" H 14933 8499 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14275 8325 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14275 8325 60  0001 C CNN
 F 3 "" H 14275 8325 60  0001 C CNN
 	1    14900 8350
 	-1   0    0    -1  
@@ -1267,7 +1267,7 @@ U 1 1 6261985D
 P 14900 9150
 F 0 "MX34" H 14933 9373 60  0000 C CNN
 F 1 "SwRALT" H 14933 9299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14275 9125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14275 9125 60  0001 C CNN
 F 3 "" H 14275 9125 60  0001 C CNN
 	1    14900 9150
 	-1   0    0    -1  
@@ -1278,7 +1278,7 @@ U 1 1 62619863
 P 15600 9150
 F 0 "MX38" H 15633 9373 60  0000 C CNN
 F 1 "SwMENU" H 15633 9299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 14975 9125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 14975 9125 60  0001 C CNN
 F 3 "" H 14975 9125 60  0001 C CNN
 	1    15600 9150
 	-1   0    0    -1  
@@ -1313,7 +1313,7 @@ U 1 1 6261988C
 P 16300 7550
 F 0 "MX40" H 16333 7773 60  0000 C CNN
 F 1 "SwCOLON" H 16333 7699 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 15675 7525 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 15675 7525 60  0001 C CNN
 F 3 "" H 15675 7525 60  0001 C CNN
 	1    16300 7550
 	-1   0    0    -1  
@@ -1725,7 +1725,7 @@ U 1 1 62882FE4
 P 8200 11000
 F 0 "MX22" H 8233 11223 60  0000 C CNN
 F 1 "SwLSHFT" H 8233 11149 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 7575 10975 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 7575 10975 60  0001 C CNN
 F 3 "" H 7575 10975 60  0001 C CNN
 	1    8200 11000
 	-1   0    0    -1  
@@ -1736,7 +1736,7 @@ U 1 1 62882FEA
 P 8650 11000
 F 0 "MX18" H 8683 11223 60  0000 C CNN
 F 1 "SwLMOD" H 8683 11149 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8025 10975 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8025 10975 60  0001 C CNN
 F 3 "" H 8025 10975 60  0001 C CNN
 	1    8650 11000
 	-1   0    0    -1  
@@ -1769,7 +1769,7 @@ U 1 1 62A1D5C7
 P 9950 11000
 F 0 "MX30" H 9983 11223 60  0000 C CNN
 F 1 "SwRMOD" H 9983 11149 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 9325 10975 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 9325 10975 60  0001 C CNN
 F 3 "" H 9325 10975 60  0001 C CNN
 	1    9950 11000
 	-1   0    0    -1  
@@ -1780,7 +1780,7 @@ U 1 1 62A1D5CD
 P 10400 11000
 F 0 "MX26" H 10433 11223 60  0000 C CNN
 F 1 "SwRSHFT" H 10433 11149 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 9775 10975 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 9775 10975 60  0001 C CNN
 F 3 "" H 9775 10975 60  0001 C CNN
 	1    10400 11000
 	-1   0    0    -1  
@@ -1976,7 +1976,7 @@ U 1 1 61FB96BD
 P 3400 9150
 F 0 "MX14" H 3433 9373 60  0000 C CNN
 F 1 "SwLALT" H 3433 9299 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 2775 9125 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 2775 9125 60  0001 C CNN
 F 3 "" H 2775 9125 60  0001 C CNN
 	1    3400 9150
 	1    0    0    -1  
@@ -3271,7 +3271,7 @@ U 1 1 649C6FB1
 P 9650 12800
 F 0 "MX46" H 9683 13023 60  0000 C CNN
 F 1 "SwRThumb3" H 9683 12949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 9025 12775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 9025 12775 60  0001 C CNN
 F 3 "" H 9025 12775 60  0001 C CNN
 	1    9650 12800
 	-1   0    0    -1  
@@ -3282,7 +3282,7 @@ U 1 1 649C8AE9
 P 9150 12800
 F 0 "MX45" H 9183 13023 60  0000 C CNN
 F 1 "SwLThumb3" H 9183 12949 20  0000 C CNN
-F 2 "keyswitches:Kailh_socket_PG1350_optional" H 8525 12775 60  0001 C CNN
+F 2 "keyswitches:Kailh_socket_PG1350" H 8525 12775 60  0001 C CNN
 F 3 "" H 8525 12775 60  0001 C CNN
 	1    9150 12800
 	-1   0    0    -1  
