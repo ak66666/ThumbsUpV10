@@ -7,8 +7,8 @@ Multilevel 44/46 Key Contoured Keyboard.
 * Supports ProGlide Cirque touchpad.
 * Hot swap sockets for switches.
 * USB-C connector.
-* Compact key spacing (18x17)
-* Some keys on the lower PCB are tucked under the middle board to bring the index and middle fingers closer. That limits the choice of the key caps, only low profile would fit.
+* Compact key spacing (18x17), large MX-size caps won't fit.
+* Some keys on the lower PCB are tucked under the middle board to bring the index and middle fingers closer. That limits the choice of the key caps even more, only low profile would fit.
 
 
 
