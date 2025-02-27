@@ -1,25 +1,26 @@
-# ThumbsUpUnsplitV2
-Multilevel 44 Key Ergonomic Keyboard.
-V2 puts the fourth row one level up.
+# ThumbsUp! v10 RP2040 Kailh Choc
 
-The board uses Kailh Choc hot-swap switches.
+Multilevel 44/46 Key Contoured Keyboard.
+2- or 3-key Thumb Cluster.
 
-//TODO Pictures to be replaced.
+* RP2040 is soldered on the board itself.
+* Supports ProGlide Cirque touchpad.
+* Hot swap sockets for switches.
+* USB-C connector.
+* Compact key spacing (18x17)
+* Some keys on the lower PCB are tucked under the middle board to bring the index and middle fingers closer. That limits the choice of the key caps, only low profile would fit.
 
-![Main view](https://github.com/ak66666/ThumbsUpUnsplit/blob/main/Photos-001%20(12)/20220219_191523.jpg)
-![Three levels are visible](https://github.com/ak66666/ThumbsUpUnsplit/blob/main/Photos-001%20(12)/20220219_191651.jpg)
-![](https://github.com/ak66666/ThumbsUpUnsplit/blob/main/Photos-001%20(12)/20220219_152609.jpg)
-![](https://github.com/ak66666/ThumbsUpUnsplit/blob/main/Photos-001%20(12)/20220219_184854.jpg)
-![](https://github.com/ak66666/ThumbsUpUnsplit/blob/main/Photos-001%20(12)/20220219_184909.jpg)
-![](https://github.com/ak66666/ThumbsUpUnsplit/blob/main/Photos-001%20(12)/20220219_191540.jpg)
-![](https://github.com/ak66666/ThumbsUpUnsplit/blob/main/Photos-001%20(12)/20220219_191637.jpg)
+
+
+
+![Main view](https://github.com/ak66666/ThumbsUpV10/blob/main/Photos/IMG_20240502_213052255_HDR.jpg)
+![Some keys are tucked under the middle PCB](https://github.com/ak66666/ThumbsUpV10/blob/main/Photos/IMG_20240502_213249875.jpg)
+
+Other pictures in Photos folder.
 
 # Firmware
-                                                               
-The board uses Planck rev4 software with one pin replaced - it is needed for Cirque trackpad.
-To make it work - modify \qmk_firmware\keyboards\planck\config.h, replace the pin definition with this one:
 
-#define MATRIX_COL_PINS { D7, B4, D6, D4, F7, F6, F5, F4, C7, B0, F0, F1 }
-
+Please refer to this article:
+https://thumbsupkeyboards.blogspot.com/2024/02/source-files-and-default-firmware.html
 
 
